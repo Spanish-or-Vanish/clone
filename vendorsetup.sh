@@ -6,7 +6,7 @@ git clone --depth=1 https://gitlab.com/vendor-trees/vendor_xiaomi_vili.git -b 16
 
 git clone --depth=1 https://gitlab.com/vendor-trees/vendor_xiaomi_sm8350-common.git -b 17 vendor/xiaomi/sm8350-common
 
-git clone --depth=1 https://github.com/Spanish-or-Vanish/kernel_xiaomi_sm8350.git -b lineage-23.2 kernel/xiaomi/sm8350
+git clone --depth=1 https://github.com/Spanish-or-Vanish/kernel_xiaomi_sm8350.git -b lineage-24.0 kernel/xiaomi/sm8350
 
 git clone --depth=1 https://github.com/LineageOS/android_hardware_xiaomi.git -b lineage-23.2 hardware/xiaomi
 
