@@ -16,8 +16,11 @@ git clone https://github.com/swiitch-OFF-Lab/vendor_lineage-priv.git -b lineage-
 
 git clone --depth=1 https://github.com/swiitch-OFF-Lab/packages_apps_ViPER4AndroidFX.git -b main packages/apps/ViPER4AndroidFX
 
+# OSS Dolby App 
 git clone --depth=1 https://github.com/swiitch-OFF-Lab/packages_apps_DolbyUI.git -b aa packages/apps/DolbyUI
 
+# Motorola Dolby Atmos
 git clone --depth=1 https://github.com/swiitch-OFF-Lab/hardware_dolby.git -b Dolby-Vision-2.0 hardware/dolby
 
-git clone --depth=1 https://github.com/swiitch-OFF-Lab/hardware_dolby.git -b Dolby-Vision-2.1 hardware/dolby
+# Sony Dolby Atmos
+git clone --depth=1 https://github.com/swiitch-OFF-Lab/hardware_dolby.git -b sony-A17 hardware/dolby
