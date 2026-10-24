@@ -10,7 +10,7 @@ git clone --depth=1 https://github.com/Spanish-or-Vanish/kernel_xiaomi_sm8350.gi
 
 git clone --depth=1 https://github.com/LineageOS/android_hardware_xiaomi.git -b lineage-23.2 hardware/xiaomi
 
-git clone --depth=1 https://gitea.com/swiitchOFF/vendor_xiaomi_vili-firmware.git -b vili vendor/xiaomi/vili-firmware
+git clone --depth=1 https://gitlab.com/swiitchOFF/vendor_xiaomi_vili-firmware.git -b vili vendor/xiaomi/vili-firmware
 
 git clone https://github.com/swiitch-OFF-Lab/vendor_lineage-priv.git -b lineage-23.2 vendor/lineage-priv
 
